@@ -1,0 +1,68 @@
+site_name: Animais Peçonhentos - Segurança do Trabalho
+site_description: Prevenção de acidentes com animais peçonhentos em atividades NR-33 e NR-35
+site_author: Sua Empresa
+
+theme:
+  name: material
+  language: pt-BR
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.tabs.link
+
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+
+extra_css:
+  - stylesheets/base-image.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+
+nav:
+  - Início: index.md
+
+  - Cenários de Trabalho:
+      - Caixa Subterrânea (NR-33): cenarios/caixa-subterranea.md
+      - Telhado / Altura (NR-35): cenarios/telhado.md
+      - Área Externa: cenarios/area-externa.md
+      - Ambiente Interno: cenarios/ambiente-interno.md
+
+  - Animais Peçonhentos:
+      - Aranhas: animais/aranhas.md
+      - Escorpiões: animais/escorpioes.md
+      - Serpentes: animais/serpentes.md
+      - Insetos: animais/insetos.md
+
+  - Prevenção:
+      - Antes da Atividade: checklists/antes.md
+      - Durante a Atividade: checklists/durante.md
+
+  - Emergência:
+      - Fui Picado, e Agora?: emergencia/fui-picado.md
