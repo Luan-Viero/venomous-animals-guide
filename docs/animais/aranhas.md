@@ -57,7 +57,7 @@ Aranhas-armadeiras são a segunda maior causa de acidentes aracnídicos no Brasi
 <figure class="base">
     <img src="/images/Notificacoes-foneutria.png" alt="Notificações por acidentes causados por <i>Phoneutria</i>">
     <figcaption>
-        <p><b>Figura 6:</b> Notificações de acidentes causados por <i>Phoneutria</i>. <b>Fonte:</b> SINAN, 2019.</p>
+        <p><b>Figura 6:</b> Notificações de acidentes causados por <i>Phoneutria</i>. <b>Fonte:</b> SINAN, 2019.<sup id="fnref:6"><a href="#fn:6">6</a></sup></p>
     </figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ O veneno da *Phoneutria* é neurotóxico e pode causar dor intensa e irradiante,
 <figure class="base">
     <img src="/images/Acidente-foneutrico.png" alt="Acidente causado por *Phoneutria</i>">
     <figcaption>
-        <p><b>Figura 7:</b> Acidente causado por <i>Phoneutria</i>. <b>Fonte:</b> São Paulo, 2013.</p>
+        <p><b>Figura 7:</b> Acidente causado por <i>Phoneutria</i>. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:10"><a href="#fn:10">10</a></sup></p>
     </figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ O veneno da *Loxosceles* é rico em proteases, fosfatases alcalinas, hialuronida
 <figure class="base">
     <img src="/images/Acidente-loxoscelico.png" alt="Acidentes causados por <i>Loxosceles</i>">
     <figcaption>
-        <p><b>Figura 12:</b> Acidentes causados por <i>Loxosceles</i>. <b>Fonte:</b> São Paulo, 2013.</p>
+        <p><b>Figura 12:</b> Acidentes causados por <i>Loxosceles</i>. <b>Fonte:</b> São Paulo, 2013<sup id="fnref:10"><a href="#fn:10">10</a></sup>.</p>
     </figcaption>
 </figure>
 
@@ -178,14 +178,14 @@ As caranguejeiras não são uma espécie única, mas um complexo rico com mais d
 <figure class="base">
     <img src="/images/Theraphosa.png" style="max-height: 500px" alt="<i>Theraphosa blondi</i>">
     <figcaption>
-        <p><b>Figura 18:</b> <i>Theraphosa blondi</i>. <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Martin Ingemansson.</p>
+        <p><b>Figura 18:</b> <i>Theraphosa blondi</i>. <b>Fonte:</b> iNaturalist.<sup id="fnref:24"><a href="#fn:24">24</a></sup> <b>Autor da imagem:</b> Martin Ingemansson.</p>
     </figcaption>
 </figure>
 
 <figure class="base">
     <img src="/images/Poecilotheria.png" alt="<i>Poecilotheria metallica</i>">
     <figcaption>
-        <p><b>Figura 19:</b> <i>Poecilotheria metallica</i>. <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> John (snakecollector).</p>
+        <p><b>Figura 19:</b> <i>Poecilotheria metallica</i>. <b>Fonte:</b> iNaturalist.<sup id="fnref:24"><a href="#fn:24">24</a></sup> <b>Autor da imagem:</b> John (snakecollector).</p>
     </figcaption>
 </figure>
 

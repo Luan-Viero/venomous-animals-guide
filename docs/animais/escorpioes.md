@@ -16,7 +16,7 @@ A maioria dos acidentes é classificado como leve (COSTA *et al.*, 2016[^7]), ap
 <figure class="base">
     <img src="/images/Notificacoes-escorpioes.png" alt="Notificações de acidentes causados por escorpiões">
     <figcaption>
-        <p><b>Figura 2:</b> Notificações de acidentes causados por escorpiões. <b>Fonte:</b> SINAN, 2019.</p>
+        <p><b>Figura 2:</b> Notificações de acidentes causados por escorpiões. <b>Fonte:</b> SINAN, 2019<sup id="fnref:9"><a href="#fn:9">9</a></sup>.</p>
     </figcaption>
 </figure>
 

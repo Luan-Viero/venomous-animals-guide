@@ -28,7 +28,7 @@ Dentro da família Apidae, destacam-se as abelhas, principalmente as do gênero 
 <figure class="base">
     <img src="/images/Apis-mellifera.png" alt="<i>Apis mellifera</i>">
     <figcaption>
-        <p><b>Figura 2:</b> <i>Apis mellifera</i>. <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Francesco Cecere.</p>
+        <p><b>Figura 2:</b> <i>Apis mellifera</i>. <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Francesco Cecere.</p>
     </figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Acidentes com abelhas podem apresentar manifestações clínicas distintas, depe
 <figure class="base">
     <img src="/images/Notificacoes-abelhas.png" alt="Notificações de acidentes causados por abelhas">
     <figcaption>
-        <p><b>Figura 3:</b> Notificações de acidentes causados por abelhas. <b>Fonte:</b> Brasil, 2019[^14].</p>
+        <p><b>Figura 3:</b> Notificações de acidentes causados por abelhas. <b>Fonte:</b> Brasil, 2019.<sup id="fnref:14"><a href="#fn:14">14</a></sup></p>
     </figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Elas podem ser divididas em Reações locais (inchaço e vermelhidão no local d
 <figure class="base">
     <img src="/images/Lesoes-abelhas.png" alt="Ferroadas múltiplas">
     <figcaption>
-        <p><b>Figura 4:</b> Ferroadas múltiplas. <b>Fonte:</b> G1, 2017[^15]. <b>Autor da imagem:</b> Juarez Martins, conforme publicação original.</p>
+        <p><b>Figura 4:</b> Ferroadas múltiplas. <b>Fonte:</b> G1, 2017.<sup id="fnref:15"><a href="#fn:15">15</a></sup> <b>Autor da imagem:</b> Juarez Martins, conforme publicação original.</p>
         <blockquote style="font-size:8px"><i>Imagem de caráter ilustrativo, oriunda de reportagem jornalística, não destinada a diagnóstico clínico.</i></blockquote>
     </figcaption>
 </figure>
@@ -61,7 +61,7 @@ As formigas são, claramente, um dos insetos mais conhecidos e reconhecidos no m
 <figure class="base">
     <img src="/images/Paraponera-clavata.png" alt="Formiga Tucandeira (<i>Paraponera clavata</i>)">
     <figcaption>
-        <p><b>Figura 5:</b> Formiga Tucandeira (<i>Paraponera clavata</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Philipp Hoenle.</p>
+        <p><b>Figura 5:</b> Formiga Tucandeira (<i>Paraponera clavata</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Philipp Hoenle.</p>
     </figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ As formigas são, claramente, um dos insetos mais conhecidos e reconhecidos no m
 <figure class="base">
     <img src="/images/Atta-sp.png" alt="Formiga Saúva (<i>Atta sp.</i>)">
     <figcaption>
-        <p><b>Figura 6:</b> Formiga Saúva (<i>Atta sp.</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Jean-Paul Boerekamps.</p>
+        <p><b>Figura 6:</b> Formiga Saúva (<i>Atta sp.</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Jean-Paul Boerekamps.</p>
     </figcaption>
 </figure>
 
@@ -78,7 +78,8 @@ As Lava-pés são originárias do Brasil, Argentina, Uruguai e Paraguai (SOLLEY 
 <figure class="base">
     <img src="/images/Solenopsis-sp.png" alt="Formiga Lava-pé (<i>Solenopsis sp</i>)">
     <figcaption>
-        <p><b>Figura 7:</b> Formiga Lava-pé (<i>Solenopsis sp</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Ken Kneidel.</p>
+        <p><b>Figura 7:</b> Formiga Lava-pé (<i>Solenopsis sp</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a>
+</sup> <b>Autor da imagem:</b> Ken Kneidel.</p>
     </figcaption>
 </figure>
 
@@ -87,7 +88,7 @@ Cerca de 95% do veneno das lava-pés é composto por alcalóides insolúveis. Ac
 <figure class="base">
     <img src="/images/Acidente-com-lava-pes.png" alt="Lesões causadas por acidente com formigas lava-pés">
     <figcaption>
-        <p><b>Figura 8:</b> Lesões causadas por acidente com formigas lava-pés. <b>Fonte:</b> (KRUSE; ANDERSON; SIMON, 2025)[^20]. <b>Autor da imagem:</b> Daniel Wojcik, segundo publicação original.</p>
+        <p><b>Figura 8:</b> Lesões causadas por acidente com formigas lava-pés. <b>Fonte:</b> (KRUSE; ANDERSON; SIMON, 2025).<sup id="fnref:20"><a href="#fn:20">20</a></sup> <b>Autor da imagem:</b> Daniel Wojcik, segundo publicação original.</p>
     </figcaption>
 </figure>
 
@@ -99,7 +100,7 @@ Vespidae são chamados popularmente como Vespas e Marimbondos. São amplamente d
 <figure class="base">
     <img src="/images/Polistes.png" alt="<i>Polistes canadensis</i> - Marimbondo-caboclo">
     <figcaption>
-        <p><b>Figura 9:</b> Marimbondo-caboclo (<i>Polistes canadensis</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Hernán Rodriguez.</p>
+        <p><b>Figura 9:</b> Marimbondo-caboclo (<i>Polistes canadensis</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Hernán Rodriguez.</p>
     </figcaption>
 </figure>
 
@@ -127,7 +128,7 @@ Os lepidópteros são conhecidos popularmente como lagartas e taturanas (fase la
 		</figure>
 	</div>
 	<figcaption style="margin-top: 0.5em; font-size: 0.9em; text-align: center;">
-		<p><b>Figura 12:</b> Exemplos de lepidópteros. <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> neotrigonia e Dario Taraborelli.</p>
+		<p><b>Figura 12:</b> Exemplos de lepidópteros. <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> neotrigonia e Dario Taraborelli.</p>
 	</figcaption>
 </div>
 
@@ -140,7 +141,7 @@ Os Megalopigídeos são mariposas geralmente de tamanho médio (entre 5 e 8 cm d
 <figure class="base">
     <img src="/images/Podalia.png" alt="<i>Podalia sp.</i> (Megalopygidae)">
     <figcaption>
-        <p><b>Figura 13:</b> <i>Podalia sp.</i> (Megalopygidae). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Maike Reis Casimiro.</p>
+        <p><b>Figura 13:</b> <i>Podalia sp.</i> (Megalopygidae). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Maike Reis Casimiro.</p>
     </figcaption>
 </figure>
 
@@ -153,7 +154,7 @@ Os Saturniídeos são mariposas geralmente grandes, com espécies podendo chegar
 <figure class="base">
     <img src="/images/Saturniidae.png" alt="<i>Actias luna</i> (Saturniidae)">
     <figcaption>
-        <p><b>Figura 14:</b> <i>Actias luna</i> (Saturniidae). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Brian O'Meara.</p>
+        <p><b>Figura 14:</b> <i>Actias luna</i> (Saturniidae). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Brian O'Meara.</p>
     </figcaption>
 </figure>
 
@@ -162,7 +163,7 @@ O contato com cerdas urticantes causam queimação imediata e inchaço local, co
 <figure class="base">
     <img src="/images/Hylesia-sp.png" alt="Exemplo de <i>Hylesia sp.</i>">
     <figcaption>
-        <p><b>Figura 15:</b> Exemplo de <i>Hylesia sp</i>. <b>Fonte:</b> iNatualist.<b> Autor da imagem:</b> henrya.</p>
+        <p><b>Figura 15:</b> Exemplo de <i>Hylesia sp</i>. <b>Fonte:</b> iNatualist.<sup id="fnref:6"><a href="#fn:6">6</a></sup><b> Autor da imagem:</b> henrya.</p>
     </figcaption>
 </figure>
 
@@ -199,13 +200,13 @@ Conhecidos popularmente como arlequim e serra-pau, são reconhecidos pelas anten
 	<figure class="base">
 	    <img src="/images/Arlequim-da-mata.png" alt="Arlequim-da-mata (<i>Acrocinus longimanus</i>).">
 	    <figcaption>
-	        <p><b>Figura 18:</b> Arlequim-da-mata (<i>Acrocinus longimanus</i>).. <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Daniel Moreno.</p>
+	        <p><b>Figura 18:</b> Arlequim-da-mata (<i>Acrocinus longimanus</i>).. <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Daniel Moreno.</p>
 	    </figcaption>
 	</figure>
     <figure class="base">
         <img src="/images/Serra-pau.png" alt="<i>Mallodon spinibarbis</i>. Detalhe para as peças bucais robustas">
         <figcaption>
-            <p><b>Figura 19:</b> <i>Mallodon spinibarbis</i>. Detalhe para as peças bucais robustas. <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Jean-Paul Boerekamps.</p>
+            <p><b>Figura 19:</b> <i>Mallodon spinibarbis</i>. Detalhe para as peças bucais robustas. <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Jean-Paul Boerekamps.</p>
         </figcaption>
     </figure>
 </div>
@@ -224,7 +225,7 @@ Conhecidos popularmente como burrinho, caga-fogo e potó grande, são reconhecid
     <figure class="base">
         <img src="/images/Caga-fogo.png" alt="Caga-fogo (<i>Epicauta suturalis</i>)">
         <figcaption>
-            <p><b>Figura 21:</b> Caga-fogo (<i>Epicauta suturalis</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Alex Fernando.</p>
+            <p><b>Figura 21:</b> Caga-fogo (<i>Epicauta suturalis</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Alex Fernando.</p>
         </figcaption>
     </figure>
 </div>
@@ -237,7 +238,7 @@ Conhecidos popularmente como potó e caga-fogo, é a segunda maior família de C
     <figure class="base">
         <img src="/images/Poto.png" alt="Potó (gênero <i>Paederus</i>)">
         <figcaption>
-            <p><b>Figura 22:</b> Potó (gênero <i>Paederus</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> ruebezahl.</p>
+            <p><b>Figura 22:</b> Potó (gênero <i>Paederus</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> ruebezahl.</p>
         </figcaption>
     </figure>
     <figure class="base">
@@ -271,7 +272,7 @@ Popularmente conhecidos como barbeiros, é considerada a segunda maior família 
 <figure class="base">
     <img src="/images/Barbeiro.png" alt="Barbeiro (<i>Triatoma infestans</i>)">
     <figcaption>
-        <p><b>Figura 25:</b> Barbeiro (<i>Triatoma infestans</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Evaristo Santos Ortega.</p>
+        <p><b>Figura 25:</b> Barbeiro (<i>Triatoma infestans</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Evaristo Santos Ortega.</p>
     </figcaption>
 </figure>
 
@@ -283,13 +284,13 @@ Conhecidos popularmente como moscas, mosquitos, mutucas, pernilongos, entre outr
     <figure class="base">
         <img src="/images/Aedes.png" alt="Mosquito-da-dengue (<i>Aedes aegypti</i>)">
         <figcaption>
-            <p><b>Figura 26:</b> Mosquito-da-dengue (<i>Aedes aegypti</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> schneepschnorp.</p>
+            <p><b>Figura 26:</b> Mosquito-da-dengue (<i>Aedes aegypti</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> schneepschnorp.</p>
         </figcaption>
     </figure>
     <figure class="base">
         <img src="/images/Berne.png" alt="Berne (fase larval da Mosca <i>Dermatobia hominis</i>)">
         <figcaption>
-            <p><b>Figura 27:</b> Berne (fase larval da Mosca <i>Dermatobia hominis</i>). <b>Fonte:</b> iNaturalist. <b>Autor da imagem:</b> Zac Peterson.</p>
+            <p><b>Figura 27:</b> Berne (fase larval da Mosca <i>Dermatobia hominis</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Zac Peterson.</p>
         </figcaption>
     </figure>
 </div>

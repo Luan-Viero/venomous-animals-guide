@@ -1,68 +1,83 @@
-site_name: Animais Peçonhentos - Segurança do Trabalho
+site_name: Guia Rápido de Prevenção de Acidentes com Animais Peçonhentos
 site_description: Prevenção de acidentes com animais peçonhentos em atividades NR-33 e NR-35
-site_author: Sua Empresa
+site_author: Life
+# site_url: https://github.com/Luan-Viero/venomous-animals-guide
 
 theme:
   name: material
   language: pt-BR
 
+  logo: images/logo.png
+  favicon: images/favicon.png
+
   features:
-    - navigation.tabs
-    - navigation.sections
+    - content.code.copy
+    - navigation.breadcrumbs
     - navigation.expand
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
     - search.highlight
     - search.suggest
-    - content.code.copy
-    - content.tabs.link
 
   palette:
     - scheme: default
-      primary: green
-      accent: light green
+      primary: grey
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
 
     - scheme: slate
-      primary: green
-      accent: light green
+      primary: gray
+      accent: orange
       toggle:
         icon: material/weather-night
         name: Modo escuro
 
 extra_css:
-  - stylesheets/base-image.css
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
   - attr_list
-  - md_in_html
-  - tables
   - footnotes
-
+  - md_in_html
   - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-
   - pymdownx.highlight
-  - pymdownx.inlinehilite
+  - pymdownx.superfences
 
 nav:
   - Início: index.md
-
   - Cenários de Trabalho:
-      - Caixa Subterrânea (NR-33): cenarios/caixa-subterranea.md
-      - Telhado / Altura (NR-35): cenarios/telhado.md
+      - Espaço Confinado (NR-33): cenarios/espaco-confinado.md
+      - Trabalho em Altura (NR-35): cenarios/trabalho-em-altura.md
       - Área Externa: cenarios/area-externa.md
       - Ambiente Interno: cenarios/ambiente-interno.md
-
   - Animais Peçonhentos:
       - Aranhas: animais/aranhas.md
       - Escorpiões: animais/escorpioes.md
       - Serpentes: animais/serpentes.md
       - Insetos: animais/insetos.md
-
-  - Prevenção:
-      - Antes da Atividade: checklists/antes.md
-      - Durante a Atividade: checklists/durante.md
-
+  - Checklists:
+      - Antes do Trabalho: checklists/antes.md
+      - Durante o Trabalho: checklists/durante.md
   - Emergência:
       - Fui Picado, e Agora?: emergencia/fui-picado.md
+      - Contatos de Emergência: emergencia/contatos.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/whatsapp
+      link: https://wa.me/5514936181085
+      name: Dúvidas sobre identificação?
+    - icon: fontawesome/solid/phone
+      link: tel:192
+      name: SAMU 192
+    - icon: fontawesome/solid/phone
+      link: tel:193
+      name: Corpo de Bombeiros 193
+
+copyright: '© 2025 Luan Viero | Este guia está sob licença <a href="https://creativecommons.org/licenses/by/4.0/deed.pt_BR">CC BY 4.0</a>. Em emergências, ligue 192 ou 193.'

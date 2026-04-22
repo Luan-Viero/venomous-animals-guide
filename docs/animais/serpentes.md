@@ -69,7 +69,7 @@ São serpentes com hábitos predominantemente noturnos ou crepusculares. Podem a
 <figure class="base">
     <img src="/images/Notificacoes-bothrops.png" alt="Notificações de acidentes causados por <i>Bothrops</i>">
     <figcaption>
-        <p><b>Figura 6:</b> Notificações de acidentes causados por <i>Bothrops</i>. <b>Fonte:</b> SINAN, 2019.</p>
+        <p><b>Figura 6:</b> Notificações de acidentes causados por <i>Bothrops</i>. <b>Fonte:</b> SINAN, 2019.<sup id="fnref:6"><a href="#fn:6">6</a></sup></p>
     </figcaption>
 </figure>
 
@@ -79,14 +79,14 @@ O veneno botrópico é uma complexa mistura de proteínas, peptídeos, aminoáci
 <figure class="base">
     <img src="/images/Acidente-botropico.png" alt="Lesão causada por acidente botrópico">
     <figcaption>
-        <p><b>Figura 7:</b> Lesão causada por acidente botrópico. <b>Fonte:</b> CDC.</p>
+        <p><b>Figura 7:</b> Lesão causada por acidente botrópico. <b>Fonte:</b> CDC.<sup id="fnref:17"><a href="#fn:17">17</a></sup></p>
     </figcaption>
 </figure>
 
 <figure class="base">
     <img src="/images/Acidente-botropico-2.png" alt="Lesões caudados por acidente botrópico">
     <figcaption>
-        <p><b>Figura 8:</b> Lesões caudados por acidente botrópico. <b>Fonte:</b> São Paulo, 2013.</p>
+        <p><b>Figura 8:</b> Lesões caudados por acidente botrópico. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ O veneno botrópico é uma complexa mistura de proteínas, peptídeos, aminoáci
 <figure class="base">
     <img src="/images/Acidente-botropico-3.png" alt="Lesões causadas por acidente botrópico">
     <figcaption>
-        <p><b>Figura 9:</b> Lesões causadas por acidente botrópico. <b>Fonte:</b> Malaque, 2014.</p>
+        <p><b>Figura 9:</b> Lesões causadas por acidente botrópico. <b>Fonte:</b> Malaque, 2014.<sup id="fnref:20"><a href="#fn:20">20</a></sup></p>
     </figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ São serpentes pouco agressivas e, quando se sentem ameaçadas, denunciam sua pr
 <figure class="base">
     <img src="/images/Notificacoes-crotalus.png" alt="Notificações de acidentes causados por <i>Crotalus</i>">
     <figcaption>
-        <p><b>Figura 11:</b> Notificações de acidentes causados por <i>Crotalus</i>. <b>Fonte:</b> SINAN, 2019.</p>
+        <p><b>Figura 11:</b> Notificações de acidentes causados por <i>Crotalus</i>. <b>Fonte:</b> SINAN, 2019.<sup id="fnref:6"><a href="#fn:6">6</a></sup></p>
     </figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ O veneno crotálico é neurotóxico, miotóxico e coagulante, causando paralisia
 <figure class="base">
     <img src="/images/Acidente-crotalico.png" alt="Lesões causadas por acidente crotálico">
     <figcaption>
-        <p><b>Figura 12:</b> Lesões causadas por acidente crotálico. <b>Fonte:</b> São Paulo, 2013.</p>
+        <p><b>Figura 12:</b> Lesões causadas por acidente crotálico. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
 </figure>
 
@@ -147,7 +147,7 @@ Em geral, são serpentes de comportamento não agressivo, de hábitos fossoriais
 <figure class="base">
     <img src="/images/Notificacoes-elapidae.png" alt="Notificações de acidentes causados por <i>Micrurus</i>">
     <figcaption>
-        <p><b>Figura 14:</b> Notificações de acidentes causados por <i>Micrurus</i>. <b>Fonte:</b> SINAN, 2019.</p>
+        <p><b>Figura 14:</b> Notificações de acidentes causados por <i>Micrurus</i>. <b>Fonte:</b> SINAN, 2019.<sup id="fnref:6"><a href="#fn:6">6</a></sup></p>
     </figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ O veneno das corais-verdadeiras é miotóxico, hemorrágico e edematogênico, e 
 <figure class="base">
     <img src="/images/Acidente-elapidico.png" alt="Lesões causadas por acidente elapídico">
     <figcaption>
-        <p><b>Figura 17:</b> Lesões causadas por acidente elapídico. <b>Fonte:</b> São Paulo, 2013.</p>
+        <p><b>Figura 17:</b> Lesões causadas por acidente elapídico. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
 </figure>
 
@@ -202,7 +202,7 @@ Seu veneno tem composição muito parecida com o veneno botrópico, com caracter
 <figure class="base">
     <img src="/images/Acidente-laquetico.png" alt="Lesões por acidentes laquéticos">
     <figcaption>
-        <p><b>Figura 19:</b> Lesões causadas por acidente laquético. <b>Fonte:</b> São Paulo, 2013.</p>
+        <p><b>Figura 19:</b> Lesões causadas por acidente laquético. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
 </figure>
 
@@ -223,7 +223,7 @@ Seu veneno é mais potente que o das Bothrops, mas a anatomia opistóglifa das s
 <figure class="base">
     <img src="/images/Acidente-Philodryas.png" alt="Lesões causadas por acidente com <i>Philodryas</i>">
     <figcaption>
-        <p><b>Figura 21:</b> Lesões causadas por acidente com <i>Philodryas</i>. <b>Fonte:</b> São Paulo, 2013.</p>
+        <p><b>Figura 21:</b> Lesões causadas por acidente com <i>Philodryas</i>. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
 </figure>
 
@@ -264,7 +264,7 @@ O que **NÃO** fazer:
 
 # Conclusão
 
-Reconhecer e classificar corretamente as serpentes é essencial, principalmente as de importância médica, pois são base para estudos toxinológicos e para formulação do soro antiofídico (soro antivenômico), que é o único tratamento para envenenamento por serpentes (LOBO *et al.*, 2014; OLIVEIRA *et al.*, 2018)[^15]. Por isso é muito importante que, em caso de acidente, se possível, apresentar o animal que o causou, seja por fotografia ou o próprio animal. Neste caso, a conservação do animal pode ser feita pela imersão em álcool comum, em recipiente apropriado, com dados do local do acidente para ser encaminhado para identificação correta (BRASIL, 2024)[^16].
+Reconhecer e classificar corretamente as serpentes é essencial, principalmente as de importância médica, pois são base para estudos toxinológicos e para formulação do soro antiofídico (soro antivenômico), que é o único tratamento para envenenamento por serpentes (LOBO *et al.*, 2014; OLIVEIRA *et al.*, 2018[^15]). Por isso é muito importante que, em caso de acidente, se possível, apresentar o animal que o causou, seja por fotografia ou o próprio animal. Neste caso, a conservação do animal pode ser feita pela imersão em álcool comum, em recipiente apropriado, com dados do local do acidente para ser encaminhado para identificação correta (BRASIL, 2024)[^16].
 
 
 

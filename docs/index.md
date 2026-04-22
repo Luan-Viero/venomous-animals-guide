@@ -1,17 +1,38 @@
-# Welcome to MkDocs
+# Guia Rápido de Prevenção de Acidentes com Animais Peçonhentos  
+## Segurança do Trabalho – NR-33 e NR-35
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Material de apoio para **identificação de riscos, prevenção de acidentes e tomada de decisão** em atividades operacionais.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Onde você está trabalhando?
 
-## Project layout
+- [Espaço confinado (NR-33)](cenarios/espaco-confinado.md)
+- [Telhado / altura (NR-35)](cenarios/trabalho-em-altura.md)
+- [Área externa](cenarios/area-externa.md)
+- [Ambiente interno](cenarios/ambiente-interno.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## Emergência
+
+!!! danger "Fui picado, e agora?"
+    - [Ações imediatas após acidente](emergencia/fui-picado.md)
+    - [Contatos de emergência](emergencia/contatos.md)
+
+---
+
+## Prevenção
+
+!!! tip "Prevenção"
+    - [Antes da atividade](checklists/antes.md)
+    - [Durante a atividade](checklists/durante.md)
+
+---
+
+## Para saber mais
+
+- [Aranhas](animais/aranhas.md)
+- [Escorpiões](animais/escorpioes.md)
+- [Serpentes](animais/serpentes.md)
+- [Insetos](animais/insetos.md)

@@ -1,0 +1,253 @@
+/* ============================================================
+   extra.css - Guia Rápido de Prevenção de Acidentes
+   Tema Material MkDocs
+   ============================================================ */
+
+/* ------------------------------------------------------------
+   1. VARIÁVEIS GLOBAIS (Light Mode)
+   ------------------------------------------------------------ */
+:root {
+  --cor-base: #424242;
+  --cor-emergencia: #d32f2f;
+  --cor-info: #1565c0;
+  --cor-prevencao: #237d32;
+  --cor-risco: #ef6c00;
+  --cor-secundaria: #f57c00;
+}
+
+/* ------------------------------------------------------------
+   2. DARK MODE (Slate) - Substitui variáveis e corrige contraste
+   ------------------------------------------------------------ */
+[data-md-color-scheme="slate"] {
+  --cor-base: #e0e0e0;
+  --cor-emergencia: #ef5350;
+  --cor-info: #42a5f5;
+  --cor-prevencao: #66bb6a;
+  --cor-risco: #ffa726;
+  --cor-secundaria: #ff9800;
+
+  --md-default-fg-color--light: #bdbdbd;
+  --md-default-fg-color: #e6e6e6;
+}
+
+/* ------------------------------------------------------------
+   3. HEADER E BARRA DE TABS
+   ------------------------------------------------------------ */
+.md-header {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.md-tabs {
+  background-color: var(--md-default-bg-color);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+[data-md-color-scheme="slate"] .md-tabs {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.md-tabs__link {
+  color: var(--md-default-fg-color);
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: var(--cor-secundaria);
+}
+
+.md-tabs__item--active .md-tabs__link {
+  color: var(--cor-secundaria) !important;
+}
+
+.md-header__button.md-logo img {
+  height: 36px;
+}
+
+/* ------------------------------------------------------------
+   4. TIPOGRAFIA E LINKS
+   ------------------------------------------------------------ */
+.md-typeset p {
+  margin: 0.5em 0;
+}
+
+.md-typeset a {
+  color: var(--cor-md-default-fg-color);
+  font-weight: 500;
+}
+
+.md-typeset a:hover {
+  color: var(--cor-secundaria);
+}
+
+[data-md-color-scheme="slate"] .md-typeset a {
+  color: var(--md-default-fg-color);
+  text-decoration-color: rgba(255, 255, 255, 0.3);
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #ffb74d;
+  text-decoration-color: #ffb74d;
+}
+
+.md-typeset h1 {
+  color: var(--cor-secundaria);
+  font-weight: 700;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  color: #ff9800;
+}
+
+.md-typeset h2 {
+  margin-top: 1.2em;
+  font-weight: 600;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
+  color: #eeeeee;
+}
+
+.md-typeset hr {
+  margin: 2em 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+[data-md-color-scheme="slate"] .md-typeset hr {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.md-typeset ul li {
+  margin-bottom: 0.3em;
+}
+
+/* ------------------------------------------------------------
+   5. MENU LATERAL (NAVEGAÇÃO)
+   ------------------------------------------------------------ */
+.md-nav__link {
+  color: var(--md-default-fg-color);
+}
+
+[data-md-color-scheme="slate"] .md-nav__link {
+  color: var(--md-default-fg-color);
+}
+
+.md-nav__link:hover {
+  color: var(--cor-secundaria);
+}
+
+.md-nav__link--active,
+.md-nav__link--active > .md-nav__link {
+  color: var(--cor-secundaria) !important;
+  font-weight: 600;
+}
+
+.md-nav__link--active:hover,
+.md-nav__link--active > .md-nav__link:hover {
+  color: var(--cor-secundaria) !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__link--active > .md-nav__link {
+  color: var(--cor-secundaria) !important;
+  font-weight: 600;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link--active:hover,
+[data-md-color-scheme="slate"] .md-nav__link--active > .md-nav__link:hover {
+  color: var(--cor-secundaria) !important;
+}
+
+
+
+.md-nav__item--active > .md-nav__link {
+  border-left: 2px solid var(--cor-secundaria);
+  padding-left: 0.4rem;
+}
+
+/* ------------------------------------------------------------
+   6. IMAGENS (FIGURAS COM LEGENDA)
+   ------------------------------------------------------------ */
+figure.base {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 750px;
+}
+
+figure.base img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  transition: transform 0.2s ease;
+  cursor: zoom-in;
+}
+
+figure.base img:hover {
+  transform: scale(1.02);
+}
+
+figure.base figcaption {
+  margin-top: 0.5em;
+  font-size: 0.9em;
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.4;
+}
+
+/* ------------------------------------------------------------
+   7. CALLOUTS / ADMONITIONS
+   ------------------------------------------------------------ */
+.md-typeset .admonition {
+  border-radius: 6px;
+  padding: 0.6em 0.8em;
+}
+
+.md-typeset .admonition.warning {
+  border-left: 4px solid var(--cor-risco);
+}
+
+.md-typeset .admonition.tip {
+  border-left: 4px solid var(--cor-prevencao);
+}
+
+.md-typeset .admonition.danger {
+  background-color: rgba(211, 47, 47, 0.05);
+  border-left-width: 6px;
+  border-left: 4px solid var(--cor-emergencia);
+  font-weight: 450;
+}
+
+.md-typeset .admonition.info {
+  border-left: 4px solid var(--cor-info);
+  opacity: 0.9;
+}
+
+/* ------------------------------------------------------------
+   8. MARCA D'ÁGUA
+   ------------------------------------------------------------ */
+body::after {
+  content: "";
+  position: absolute;
+  bottom: 50px;
+  right: 20px;
+  width: 300px;
+  height: 300px;
+  background: url("../images/logo.png") no-repeat center;
+  background-size: contain;
+  opacity: 0.09;
+  pointer-events: none;
+  z-index: 0;
+}
+
+@media (max-width: 768px) {
+  body::after {
+    display: none;
+  }
+}
