@@ -3,7 +3,7 @@
 Existem cerca de 2910 espécies de escorpiões no mundo, classificados em 24 famílias (REIN, 2017)[^1]. Apenas 4 dessas famílias ocorrem no Brasil e, dessas 4, apenas uma é de importância médica (BRASIL, 2024)[^2]. Assim como as aranhas, os escorpiões são aracnídeos e, como elas, tem o corpo segmentado em 2: Cefalotórax (Prossoma) e Abdômen (Opistossoma); possuem 4 pares de pernas articuladas e 2 pares de peças bucais: Pedipalpos (pinças ou garras) e Quelíceras. O abdômen é divido em Tronco (Mesossoma) e Cauda (Metassoma). No final da cauda, encontra-se o Télson, que contêm as glândulas de veneno e o ferrão (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Morfologia-escorpiao.png" alt="Morfologia externa. Vistas dorsal e ventral">
+    <img src="../images/Morfologia-escorpiao.png" alt="Morfologia externa. Vistas dorsal e ventral">
     <figcaption>
         <p><b>Figura 1:</b> Morfologia externa. Vistas dorsal e ventral. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -14,7 +14,7 @@ São animais sinantrópicos, cosmopolitas, carnívoros, de hábito noturno e se 
 A maioria dos acidentes é classificado como leve (COSTA *et al.*, 2016[^7]), apresentando dor local, com ou sem parestesia (dormência, formigamento). Casos moderados e graves podem apresentar sudorese, náuseas, vômitos, taquicardia (aceleração do batimento cardíaco), taquipneia (respisração rápida e superficial), hipertensão, salivação, prostração, convulsão, coma, edema pulmonar, insuficiência cardíaca e choque (MENDES *et al.*, 2023; TAKEHARA *et al.*, 2023). O tratamento com soro antiescorpiônico é indicado em casos moderados e graves, pricipalmente em acidentes com crianças com idade abaixo de 10 anos (OLIVEIRA *et al.*, 2022[^8]; TAKEHARA *et al.*, 2023)
 
 <figure class="base">
-    <img src="/images/Notificacoes-escorpioes.png" alt="Notificações de acidentes causados por escorpiões">
+    <img src="../images/Notificacoes-escorpioes.png" alt="Notificações de acidentes causados por escorpiões">
     <figcaption>
         <p><b>Figura 2:</b> Notificações de acidentes causados por escorpiões. <b>Fonte:</b> SINAN, 2019<sup id="fnref:9"><a href="#fn:9">9</a></sup>.</p>
     </figcaption>
@@ -26,7 +26,7 @@ A maioria dos acidentes é classificado como leve (COSTA *et al.*, 2016[^7]), ap
 Dentro da família Buthidae, os escorpiões do gênero *Tityus* são os mais perigosos e são a principal causa de acidente por animais peçonhentos no país (GUERRA *et al.*, 2022)[^3]. Uma das características do gênero *Tityus* é a presença de um espinho sob o ferrão (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Espinho-subaculear.png" alt="Espinho subaculear característico do gênero <i>Tityus</i>">
+    <img src="../images/Espinho-subaculear.png" alt="Espinho subaculear característico do gênero <i>Tityus</i>">
     <figcaption>
         <p><b>Figura 3:</b> Espinho subaculear característico do gênero <i>Tityus</i>. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -37,14 +37,14 @@ Dentro da família Buthidae, os escorpiões do gênero *Tityus* são os mais per
 É considerado o escorpião mais perigoso do país, devido à sua ampla distribuição, tanto no campo quanto nos centros urbanos, grande proliferação partenogênica e o potencial de seu veneno (GUERRA *et al.*, 2022; TAKEHARA *et al.*, 2023[^4]). Têm de 5 a 7 cm de comprimento e, como o nome sugere, tem coloração amarelada, com o tronco escuro, pernas e palpos sem manchas e apresentam um serrilha (por isso o epíteto específico *serrulatus*) no terceiro e quarto segmentos da cauda (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/T-serrulatus.png" alt="<i>Tityus serrulatus</i> e mapa de distribuição">
+    <img src="../images/T-serrulatus.png" alt="<i>Tityus serrulatus</i> e mapa de distribuição">
     <figcaption>
         <p><b>Figura 4:</b> <i>Tityus serrulatus</i> e mapa de distribuição. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
 </figure>
 
 <figure class="base">
-    <img src="/images/T-serrulatus2.png" alt="Principais características de <i>Tityus serrulatus</i>">
+    <img src="../images/T-serrulatus2.png" alt="Principais características de <i>Tityus serrulatus</i>">
     <figcaption>
         <p><b>Figura 5:</b> Principais características de <i>Tityus serrulatus</i>. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -57,14 +57,14 @@ A picada do escorpião amarelo é responsável pela maioria dos casos com evolu�
 Têm de 5 a 7 cm de comprimento, coloração marrom-avermelhado, com tronco escuro e sem manchas, pernas e palpos com manchas escuras e ausência de serrilha na cauda (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/T-bahiensis.png" alt="<i>Tityus bahiensis</i> e mapa de distribuição">
+    <img src="../images/T-bahiensis.png" alt="<i>Tityus bahiensis</i> e mapa de distribuição">
     <figcaption>
         <p><b>Figura 6:</b> <i>Tityus bahiensis</i> e mapa de distribuição. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
 </figure>
 
 <figure class="base">
-    <img src="/images/T-bahiensis2.png" alt="Principais características de <i>Tityus bahiensis</i>">
+    <img src="../images/T-bahiensis2.png" alt="Principais características de <i>Tityus bahiensis</i>">
     <figcaption>
         <p><b>Figura 7:</b> Principais características de <i>Tityus bahiensis</i>. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -75,14 +75,14 @@ Têm de 5 a 7 cm de comprimento, coloração marrom-avermelhado, com tronco escu
 Têm de 5 a 7 cm de comprimento, de coloração amarelada, presença de um triângulo escuro na face dorsal do cefalotórax, uma faixa escura central bem definida e duas laterais discretasna face dorsal do tronco, pernas e palpos sem manchas e discreta serrilha no terceiro e quarto segmentos da cauda.
 
 <figure class="base">
-    <img src="/images/T-stigmurus.png" alt="<i>Tityus stigmurus</i> e mapa de distribuição">
+    <img src="../images/T-stigmurus.png" alt="<i>Tityus stigmurus</i> e mapa de distribuição">
     <figcaption>
         <p><b>Figura 8:</b> <i>Tityus stigmurus</i> e mapa de distribuição. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
 </figure>
 
 <figure class="base">
-    <img src="/images/T-stigmurus2.png" alt="Principais características de <i>Tityus stigmurus</i>">
+    <img src="../images/T-stigmurus2.png" alt="Principais características de <i>Tityus stigmurus</i>">
     <figcaption>
         <p><b>Figura 9:</b> Principais características de <i>Tityus stigmurus</i>. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>

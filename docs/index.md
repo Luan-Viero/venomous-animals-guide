@@ -8,7 +8,7 @@ Material de apoio para **identificação de riscos, prevenção de acidentes e t
 ## Onde você está trabalhando?
 
 - [Espaço confinado (NR-33)](cenarios/espaco-confinado.md)
-- [Telhado / altura (NR-35)](cenarios/trabalho-em-altura.md)
+- [Trabalho em altura (NR-35)](cenarios/trabalho-em-altura.md)
 - [Área externa](cenarios/area-externa.md)
 - [Ambiente interno](cenarios/ambiente-interno.md)
 

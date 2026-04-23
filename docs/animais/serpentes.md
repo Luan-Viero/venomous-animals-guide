@@ -8,7 +8,7 @@ As serpentes podem ser classificadas em quatro grupos distintos, com base na pre
 
 
 <figure class="base">
-    <img src="/images/Denticao-aglifa.png" alt="Dentição áglifa">
+    <img src="../images/Denticao-aglifa.png" alt="Dentição áglifa">
     <figcaption>
         <p><b>Figura 1:</b> Dentição áglifa. <b>Fonte:</b> Brasil, 2024. <b>Autor da imagem:</b> Anibal R. Melgarejo, conforme publicação original.</p>
     </figcaption>
@@ -19,7 +19,7 @@ As serpentes podem ser classificadas em quatro grupos distintos, com base na pre
 
 
 <figure class="base">
-    <img src="/images/Denticao-opistoglifa.png" alt="Dentição opistóglifa.">
+    <img src="../images/Denticao-opistoglifa.png" alt="Dentição opistóglifa.">
     <figcaption>
         <p><b>Figura 2:</b> Dentição opistóglifa. <b>Fonte:</b> Brasil, 2024. <b>Autor da imagem:</b> Anibal R. Melgarejo, conforme publicação original.</p>
     </figcaption>
@@ -29,7 +29,7 @@ As serpentes podem ser classificadas em quatro grupos distintos, com base na pre
 
 
 <figure class="base">
-    <img src="/images/Denticao-proteroglifa.png" alt="Dentição proteróglifa">
+    <img src="../images/Denticao-proteroglifa.png" alt="Dentição proteróglifa">
     <figcaption>
         <p><b>Figura 3:</b> Dentição proteróglifa. <b>Fonte:</b> Brasil, 2024. <b>Autor da imagem:</b> Anibal R. Melgarejo, conforme publicação original.</p>
     </figcaption>
@@ -39,7 +39,7 @@ As serpentes podem ser classificadas em quatro grupos distintos, com base na pre
 
 
 <figure class="base">
-    <img src="/images/Denticao-solenoglifa.png" alt="Dentição solenóglifa">
+    <img src="../images/Denticao-solenoglifa.png" alt="Dentição solenóglifa">
     <figcaption>
         <p><b>Figura 4:</b> Dentição solenóglifa. <b>Fonte:</b> Brasil, 2024. <b>Autor da imagem:</b> Anibal R. Melgarejo, conforme publicação original.</p>
     </figcaption>
@@ -57,7 +57,7 @@ Envenenamento por serpentes é um problema de saúde pública global que carece 
 
 
 <figure class="base">
-    <img src="/images/Bothrops-sp.png" alt="Exemplares de espécies de <i>Bothrops</i> e sua distribuição no Brasil">
+    <img src="../images/Bothrops-sp.png" alt="Exemplares de espécies de <i>Bothrops</i> e sua distribuição no Brasil">
     <figcaption>
         <p><b>Figura 5:</b> Exemplares de espécies de <i>Bothrops</i> e sua distribuição no Brasil. <b>Fonte:</b> Brasil, 2024. <b>Autores da imagem:</b> Conforme publicação original.</p>
     </figcaption>
@@ -67,7 +67,7 @@ São serpentes com hábitos predominantemente noturnos ou crepusculares. Podem a
 
 
 <figure class="base">
-    <img src="/images/Notificacoes-bothrops.png" alt="Notificações de acidentes causados por <i>Bothrops</i>">
+    <img src="../images/Notificacoes-bothrops.png" alt="Notificações de acidentes causados por <i>Bothrops</i>">
     <figcaption>
         <p><b>Figura 6:</b> Notificações de acidentes causados por <i>Bothrops</i>. <b>Fonte:</b> SINAN, 2019.<sup id="fnref:6"><a href="#fn:6">6</a></sup></p>
     </figcaption>
@@ -77,14 +77,14 @@ O veneno botrópico é uma complexa mistura de proteínas, peptídeos, aminoáci
 
 
 <figure class="base">
-    <img src="/images/Acidente-botropico.png" alt="Lesão causada por acidente botrópico">
+    <img src="../images/Acidente-botropico.png" alt="Lesão causada por acidente botrópico">
     <figcaption>
         <p><b>Figura 7:</b> Lesão causada por acidente botrópico. <b>Fonte:</b> CDC.<sup id="fnref:17"><a href="#fn:17">17</a></sup></p>
     </figcaption>
 </figure>
 
 <figure class="base">
-    <img src="/images/Acidente-botropico-2.png" alt="Lesões caudados por acidente botrópico">
+    <img src="../images/Acidente-botropico-2.png" alt="Lesões caudados por acidente botrópico">
     <figcaption>
         <p><b>Figura 8:</b> Lesões caudados por acidente botrópico. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
@@ -92,7 +92,7 @@ O veneno botrópico é uma complexa mistura de proteínas, peptídeos, aminoáci
 
 
 <figure class="base">
-    <img src="/images/Acidente-botropico-3.png" alt="Lesões causadas por acidente botrópico">
+    <img src="../images/Acidente-botropico-3.png" alt="Lesões causadas por acidente botrópico">
     <figcaption>
         <p><b>Figura 9:</b> Lesões causadas por acidente botrópico. <b>Fonte:</b> Malaque, 2014.<sup id="fnref:20"><a href="#fn:20">20</a></sup></p>
     </figcaption>
@@ -103,7 +103,7 @@ O veneno botrópico é uma complexa mistura de proteínas, peptídeos, aminoáci
 *Crotalus* também é um gênero da família Viperidae, conhecidas popularmente como Cascavéis. Elas são responsáveis por cerca de 8% a 15% dos acidentes ofídicos e o envenenamento causado por elas é considerado de maior severidade que os envenenamentos botrópicos (SGARBI *et al.*, 1995)[^8].
 
 <figure class="base">
-    <img src="/images/Crotalus-sp.png" alt="Exemplares de subespécies de <i>Crotalus durissus</i>">
+    <img src="../images/Crotalus-sp.png" alt="Exemplares de subespécies de <i>Crotalus durissus</i>">
     <figcaption>
         <p><b>Figura 10:</b> Exemplares de subespécies de <i>Crotalus durissus</i>. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -113,7 +113,7 @@ São serpentes pouco agressivas e, quando se sentem ameaçadas, denunciam sua pr
 
 
 <figure class="base">
-    <img src="/images/Notificacoes-crotalus.png" alt="Notificações de acidentes causados por <i>Crotalus</i>">
+    <img src="../images/Notificacoes-crotalus.png" alt="Notificações de acidentes causados por <i>Crotalus</i>">
     <figcaption>
         <p><b>Figura 11:</b> Notificações de acidentes causados por <i>Crotalus</i>. <b>Fonte:</b> SINAN, 2019.<sup id="fnref:6"><a href="#fn:6">6</a></sup></p>
     </figcaption>
@@ -123,7 +123,7 @@ O veneno crotálico é neurotóxico, miotóxico e coagulante, causando paralisia
 
 
 <figure class="base">
-    <img src="/images/Acidente-crotalico.png" alt="Lesões causadas por acidente crotálico">
+    <img src="../images/Acidente-crotalico.png" alt="Lesões causadas por acidente crotálico">
     <figcaption>
         <p><b>Figura 12:</b> Lesões causadas por acidente crotálico. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
@@ -135,7 +135,7 @@ O veneno crotálico é neurotóxico, miotóxico e coagulante, causando paralisia
 
 
 <figure class="base">
-    <img src="/images/Micrurus-sp.png" alt="Exemplares de espécies do gênero <i>Micrurus</i>">
+    <img src="../images/Micrurus-sp.png" alt="Exemplares de espécies do gênero <i>Micrurus</i>">
     <figcaption>
         <p><b>Figura 13:</b> Exemplares de espécies do gênero <i>Micrurus</i>. <b>Fonte:</b> Brasil, 2024. <b>Autores da imagem:</b> Conforme publicação original.</p>
     </figcaption>
@@ -145,7 +145,7 @@ Em geral, são serpentes de comportamento não agressivo, de hábitos fossoriais
 
 
 <figure class="base">
-    <img src="/images/Notificacoes-elapidae.png" alt="Notificações de acidentes causados por <i>Micrurus</i>">
+    <img src="../images/Notificacoes-elapidae.png" alt="Notificações de acidentes causados por <i>Micrurus</i>">
     <figcaption>
         <p><b>Figura 14:</b> Notificações de acidentes causados por <i>Micrurus</i>. <b>Fonte:</b> SINAN, 2019.<sup id="fnref:6"><a href="#fn:6">6</a></sup></p>
     </figcaption>
@@ -155,7 +155,7 @@ São animais de pequeno e médio porte, com cerca de 1m de comprimento e com amp
 
 
 <figure class="base">
-    <img src="/images/Padroes-cobras-corais.png" alt="Padrões das cobras-corais de importância médica no Brasil e sua distribuição geográfica">
+    <img src="../images/Padroes-cobras-corais.png" alt="Padrões das cobras-corais de importância médica no Brasil e sua distribuição geográfica">
     <figcaption>
         <p><b>Figura 15:</b> Padrões das cobras-corais de importância médica no Brasil e sua distribuição geográfica. <b>Fonte:</b> Brasil, 2024. <b>Autor da imagem:</b> Marcus A. Buononato, conforme publicação original.</p>
     </figcaption>
@@ -165,7 +165,7 @@ Além dessa semelhança entre elas, há ainda um ponto a se considerar na corret
 
 
 <figure class="base">
-    <img src="/images/Padroes-falsas-corais.png" alt="Padrões das cobras corais falsas mais comuns">
+    <img src="../images/Padroes-falsas-corais.png" alt="Padrões das cobras corais falsas mais comuns">
     <figcaption>
         <p><b>Figura 16:</b> Padrões das cobras corais falsas mais comuns. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -175,7 +175,7 @@ O veneno das corais-verdadeiras é miotóxico, hemorrágico e edematogênico, e 
 
 
 <figure class="base">
-    <img src="/images/Acidente-elapidico.png" alt="Lesões causadas por acidente elapídico">
+    <img src="../images/Acidente-elapidico.png" alt="Lesões causadas por acidente elapídico">
     <figcaption>
         <p><b>Figura 17:</b> Lesões causadas por acidente elapídico. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
@@ -190,7 +190,7 @@ No Brasil, temos outras serpentes que também podem causar acidentes, mas, ou n�
 Com apenas uma espécie no Brasil, *Lachesis muta*, pertencem à família Viperidae, conhecidas popularmente como Surucucu ou Pico-de-Jaca. É a maior espécie de víbora do Brasil, podendo chegar a mais de 3m de comprimento (SACHETT *et al.*, 2022)[^11].
 
 <figure class="base">
-    <img src="/images/Lachesis-muta.png" alt="Exemplares de <i>Lachesis muta</i> e sua distribuição geográfica">
+    <img src="../images/Lachesis-muta.png" alt="Exemplares de <i>Lachesis muta</i> e sua distribuição geográfica">
     <figcaption>
         <p><b>Figura 18:</b> Exemplares de <i>Lachesis muta</i> e sua distribuição geográfica. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -200,7 +200,7 @@ Seu veneno tem composição muito parecida com o veneno botrópico, com caracter
 
 
 <figure class="base">
-    <img src="/images/Acidente-laquetico.png" alt="Lesões por acidentes laquéticos">
+    <img src="../images/Acidente-laquetico.png" alt="Lesões por acidentes laquéticos">
     <figcaption>
         <p><b>Figura 19:</b> Lesões causadas por acidente laquético. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>
@@ -212,7 +212,7 @@ Seu veneno tem composição muito parecida com o veneno botrópico, com caracter
 
 
 <figure class="base">
-    <img src="/images/Philodryas-sp.png" alt="Exemplar de <i>Philodryas olfersii</i>">
+    <img src="../images/Philodryas-sp.png" alt="Exemplar de <i>Philodryas olfersii</i>">
     <figcaption>
         <p><b>Figura 20:</b> Exemplar de <i>Philodryas olfersii</i>. <b>Fonte:</b> Brasil, 2024. <b>Autor da imagem:</b> Carlos E. D. Cintra, conforme publicação original.</p>
     </figcaption>
@@ -221,7 +221,7 @@ Seu veneno tem composição muito parecida com o veneno botrópico, com caracter
 Seu veneno é mais potente que o das Bothrops, mas a anatomia opistóglifa das suas presas, que dificulta a inoculação do veneno, aliada a um comportamento não agressivo, explica a baixíssima incidência de casos (ARAÚJO & SANTOS, 1997)[^13].
 
 <figure class="base">
-    <img src="/images/Acidente-Philodryas.png" alt="Lesões causadas por acidente com <i>Philodryas</i>">
+    <img src="../images/Acidente-Philodryas.png" alt="Lesões causadas por acidente com <i>Philodryas</i>">
     <figcaption>
         <p><b>Figura 21:</b> Lesões causadas por acidente com <i>Philodryas</i>. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:19"><a href="#fn:19">19</a></sup></p>
     </figcaption>

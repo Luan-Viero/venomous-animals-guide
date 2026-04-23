@@ -4,7 +4,7 @@ Insetos é o grupo mais diverso de organismos sobre a terra, representando cerca
 
 
 <figure class="base">
-    <img src="/images/Morfologia-externa.png" alt="Morfologia externa">
+    <img src="../images/Morfologia-externa.png" alt="Morfologia externa">
     <figcaption>
         <p><b>Figura 1:</b> Morfologia externa. <b>Fonte:</b> Rafael <i>et al.</i>, 2012.</p>
     </figcaption>
@@ -26,7 +26,7 @@ Dentro da família Apidae, destacam-se as abelhas, principalmente as do gênero 
 
 
 <figure class="base">
-    <img src="/images/Apis-mellifera.png" alt="<i>Apis mellifera</i>">
+    <img src="../images/Apis-mellifera.png" alt="<i>Apis mellifera</i>">
     <figcaption>
         <p><b>Figura 2:</b> <i>Apis mellifera</i>. <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Francesco Cecere.</p>
     </figcaption>
@@ -38,7 +38,7 @@ Acidentes com abelhas podem apresentar manifestações clínicas distintas, depe
 
 
 <figure class="base">
-    <img src="/images/Notificacoes-abelhas.png" alt="Notificações de acidentes causados por abelhas">
+    <img src="../images/Notificacoes-abelhas.png" alt="Notificações de acidentes causados por abelhas">
     <figcaption>
         <p><b>Figura 3:</b> Notificações de acidentes causados por abelhas. <b>Fonte:</b> Brasil, 2019.<sup id="fnref:14"><a href="#fn:14">14</a></sup></p>
     </figcaption>
@@ -47,7 +47,7 @@ Acidentes com abelhas podem apresentar manifestações clínicas distintas, depe
 Elas podem ser divididas em Reações locais (inchaço e vermelhidão no local da picada); Reações alérgicas (rinite alérgica, asma brônquica, dermatite atópica e urticária), que podem evoluir para Choque anafilático (colapso cardiovascular, broncoespasmo e hipotensão) e Reações sistêmicas, causadas por múltiplas ferroadas e que pode levar à morte em algumas horas em consequência de falência múltipla de órgãos (KONO *et al.*, 2021).
 
 <figure class="base">
-    <img src="/images/Lesoes-abelhas.png" alt="Ferroadas múltiplas">
+    <img src="../images/Lesoes-abelhas.png" alt="Ferroadas múltiplas">
     <figcaption>
         <p><b>Figura 4:</b> Ferroadas múltiplas. <b>Fonte:</b> G1, 2017.<sup id="fnref:15"><a href="#fn:15">15</a></sup> <b>Autor da imagem:</b> Juarez Martins, conforme publicação original.</p>
         <blockquote style="font-size:8px"><i>Imagem de caráter ilustrativo, oriunda de reportagem jornalística, não destinada a diagnóstico clínico.</i></blockquote>
@@ -59,7 +59,7 @@ Elas podem ser divididas em Reações locais (inchaço e vermelhidão no local d
 As formigas são, claramente, um dos insetos mais conhecidos e reconhecidos no mundo. É a única família de himenópteros onde todas as espécies são eussociais, ou seja, apresentam forte separação em castas (rainha e operárias) e, em algumas espécies, até mesmo subcastas (MELO & DAL MOLIN, 2024). No Brasil, cerca de 2500 espécies de formigas são conhecidas (BRANDÃO, 1999)[^16], dentre as quais destacam-se a Tucandeira ou Formiga-Cabo-Verde (*Paraponera clavata*), que habitam, principalmente a Floresta Amazônica; a Saúva ou Formiga-Cortadeira (*Atta sp.*), com suas grandes mandíbulas capazes de cortar a pele; e a Formiga-de-Fogo, ou como conhecemos na região sudeste, Lava-Pés (*Solenopsis sp.*), cujas ferroadas são capazes de causar graves reações alérgicas (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Paraponera-clavata.png" alt="Formiga Tucandeira (<i>Paraponera clavata</i>)">
+    <img src="../images/Paraponera-clavata.png" alt="Formiga Tucandeira (<i>Paraponera clavata</i>)">
     <figcaption>
         <p><b>Figura 5:</b> Formiga Tucandeira (<i>Paraponera clavata</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Philipp Hoenle.</p>
     </figcaption>
@@ -67,7 +67,7 @@ As formigas são, claramente, um dos insetos mais conhecidos e reconhecidos no m
 
 
 <figure class="base">
-    <img src="/images/Atta-sp.png" alt="Formiga Saúva (<i>Atta sp.</i>)">
+    <img src="../images/Atta-sp.png" alt="Formiga Saúva (<i>Atta sp.</i>)">
     <figcaption>
         <p><b>Figura 6:</b> Formiga Saúva (<i>Atta sp.</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Jean-Paul Boerekamps.</p>
     </figcaption>
@@ -76,7 +76,7 @@ As formigas são, claramente, um dos insetos mais conhecidos e reconhecidos no m
 As Lava-pés são originárias do Brasil, Argentina, Uruguai e Paraguai (SOLLEY *et al.*, 2002)[^17], mas se espalharam por diversos países, tornando-se espécie invasora e sendo, até mesmo, consideradas pragas a serem combatidas (JUNIOR & LARSSON, 2015)[^18]. São formigas agressivas, que defendem seu território e faz uso extensivo de feromônios ou sinais químicos para recrutar outras operárias, sincronizar ataques e iniciar as ferroadas, o que resulta em acidentes com grande número de indivíduos e com ferroadas múltiplas (SOLLEY *et al.*, 2002). Geralmente se fixam à pele pelas mandíbulas e ferroam com o aguilhão do abdômen (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Solenopsis-sp.png" alt="Formiga Lava-pé (<i>Solenopsis sp</i>)">
+    <img src="../images/Solenopsis-sp.png" alt="Formiga Lava-pé (<i>Solenopsis sp</i>)">
     <figcaption>
         <p><b>Figura 7:</b> Formiga Lava-pé (<i>Solenopsis sp</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a>
 </sup> <b>Autor da imagem:</b> Ken Kneidel.</p>
@@ -86,7 +86,7 @@ As Lava-pés são originárias do Brasil, Argentina, Uruguai e Paraguai (SOLLEY 
 Cerca de 95% do veneno das lava-pés é composto por alcalóides insolúveis. Acidentes com lava-pés podem ocasionar reações locais, geralmente reconhecidas pela reação de pápula-eritematosa, a pústula estéril e a grande reação local; até reações sistêmicas, apresentando urticária generalizada, angioedema, prurido, eritrema e até choque-anafilático em alguns casos (KEMP *et al.*, 2000)[^19].
 
 <figure class="base">
-    <img src="/images/Acidente-com-lava-pes.png" alt="Lesões causadas por acidente com formigas lava-pés">
+    <img src="../images/Acidente-com-lava-pes.png" alt="Lesões causadas por acidente com formigas lava-pés">
     <figcaption>
         <p><b>Figura 8:</b> Lesões causadas por acidente com formigas lava-pés. <b>Fonte:</b> (KRUSE; ANDERSON; SIMON, 2025).<sup id="fnref:20"><a href="#fn:20">20</a></sup> <b>Autor da imagem:</b> Daniel Wojcik, segundo publicação original.</p>
     </figcaption>
@@ -98,7 +98,7 @@ Vespidae são chamados popularmente como Vespas e Marimbondos. São amplamente d
 
 
 <figure class="base">
-    <img src="/images/Polistes.png" alt="<i>Polistes canadensis</i> - Marimbondo-caboclo">
+    <img src="../images/Polistes.png" alt="<i>Polistes canadensis</i> - Marimbondo-caboclo">
     <figcaption>
         <p><b>Figura 9:</b> Marimbondo-caboclo (<i>Polistes canadensis</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Hernán Rodriguez.</p>
     </figcaption>
@@ -108,7 +108,7 @@ O veneno das vespas contém histaminas, enzimas, neurotoxinas, vasodilatadores e
 
 
 <figure class="base">
-    <img src="/images/Acidente-com-marimbondo.png" alt="Lesões causadas por acidente com vespas">
+    <img src="../images/Acidente-com-marimbondo.png" alt="Lesões causadas por acidente com vespas">
     <figcaption>
 	<p><b>Figura 10:</b> Lesões causadas por acidente com vespas. <b>Fonte:</b> <a href="https://dermnetnz.org/topics/bee-and-wasp-stings"> DermNet</a>. <b>Autor da imagem:</b> Dra. Beth Wright, conforme publicação original.</p>
     </figcaption>
@@ -121,10 +121,10 @@ Os lepidópteros são conhecidos popularmente como lagartas e taturanas (fase la
 <div>
 	<div style="display: flex; width: fit">
 		<figure class="base">
-		    <img src="/images/Lagartas.png" alt="Exemplos de lepidópteros">
+		    <img src="../images/Lagartas.png" alt="Exemplos de lepidópteros">
 		</figure>
 		<figure class="base">
-		    <img src="/images/Borboleta.png" alt="Exemplos de lepidópteros">
+		    <img src="../images/Borboleta.png" alt="Exemplos de lepidópteros">
 		</figure>
 	</div>
 	<figcaption style="margin-top: 0.5em; font-size: 0.9em; text-align: center;">
@@ -139,7 +139,7 @@ Apesar de muito diversa, apenas duas famílias apresentam importância médica n
 Os Megalopigídeos são mariposas geralmente de tamanho médio (entre 5 e 8 cm de envergadura, algumas podendo chegar até 11 cm), restritas ao continente americano. As larvas possuem corpo revestido por cerdas densas, a maioria longa, sedosa e não-urticante, porém entre elas há cerdas menores, pontiagudas, robustas e inoculadoras de substâncias urticantes (CARNEIRO *et al*., 2024). 
 
 <figure class="base">
-    <img src="/images/Podalia.png" alt="<i>Podalia sp.</i> (Megalopygidae)">
+    <img src="../images/Podalia.png" alt="<i>Podalia sp.</i> (Megalopygidae)">
     <figcaption>
         <p><b>Figura 13:</b> <i>Podalia sp.</i> (Megalopygidae). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Maike Reis Casimiro.</p>
     </figcaption>
@@ -152,7 +152,7 @@ O contato com as cerdas urticantes causa dor intensa e ardente quase imediatamen
 Os Saturniídeos são mariposas geralmente grandes, com espécies podendo chegar aos 30 cm de envergadura. A maioria têm hábitos noturnos e são reconhecidas cerca de 488 espécies no Brasil (CARDOSO *et al*., 2024). Diferentemente dos megalopigídeos, nos saturniídeos, as estruturas inoculadoras de veneno são ramificadas, possuindo um eixo central com ramificações laterais (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Saturniidae.png" alt="<i>Actias luna</i> (Saturniidae)">
+    <img src="../images/Saturniidae.png" alt="<i>Actias luna</i> (Saturniidae)">
     <figcaption>
         <p><b>Figura 14:</b> <i>Actias luna</i> (Saturniidae). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Brian O'Meara.</p>
     </figcaption>
@@ -161,7 +161,7 @@ Os Saturniídeos são mariposas geralmente grandes, com espécies podendo chegar
 O contato com cerdas urticantes causam queimação imediata e inchaço local, com complicações clínicas, às vezes, fatais aos humanos, como é o caso de *Lonomia obliqua*. Também são conhecidos os acidentes provocados por algumas espécies de Hylesia, as fêmeas adultas possuem cerdas microscópicas no abdômen que, em contato com a pele humana, podem provocar reações inflamatórias papulosas e pruriginosas intensas, semelhantes às observadas em acidentes por cerdas de aranhas caranguejeiras (CARDOSO & HADDAD JR, 2005[^27]; CARNEIRO *et al*., 2024).
 
 <figure class="base">
-    <img src="/images/Hylesia-sp.png" alt="Exemplo de <i>Hylesia sp.</i>">
+    <img src="../images/Hylesia-sp.png" alt="Exemplo de <i>Hylesia sp.</i>">
     <figcaption>
         <p><b>Figura 15:</b> Exemplo de <i>Hylesia sp</i>. <b>Fonte:</b> iNatualist.<sup id="fnref:6"><a href="#fn:6">6</a></sup><b> Autor da imagem:</b> henrya.</p>
     </figcaption>
@@ -171,13 +171,13 @@ Os casos mais severos de erucismo são os causados pelo contato com indivíduos 
 
 <div style="display: block; width: auto">
 	<figure class="base">
-	    <img src="/images/Colonia-lonomia.png" alt="Colônia de <i>Lonomia obliqua</i> envidenciando seu comportamento gregário" style="width: 50%">
+	    <img src="../images/Colonia-lonomia.png" alt="Colônia de <i>Lonomia obliqua</i> envidenciando seu comportamento gregário" style="width: 50%">
 	    <figcaption>
 	        <p><b>Figura 16:</b> Colônia de <i>Lonomia obliqua</i> envidenciando seu comportamento gregário. <b>Fonte:</b> Brasil, 2024.</p>
 	    </figcaption>
 	</figure>
 	<figure class="base">
-	    <img src="/images/Lonomia-obliqua.png" alt="Exemplo de <i>Lonomia obliqua</i>">
+	    <img src="../images/Lonomia-obliqua.png" alt="Exemplo de <i>Lonomia obliqua</i>">
 	    <figcaption>
 	        <p><b>Figura 17:</b> Exemplo de <i>Lonomia obliqua</i>. <b>Fonte:</b> Brasil, 2024.</p>
 	    </figcaption>
@@ -198,13 +198,13 @@ Conhecidos popularmente como arlequim e serra-pau, são reconhecidos pelas anten
 
 <div style="display: flex; width: auto">
 	<figure class="base">
-	    <img src="/images/Arlequim-da-mata.png" alt="Arlequim-da-mata (<i>Acrocinus longimanus</i>).">
+	    <img src="../images/Arlequim-da-mata.png" alt="Arlequim-da-mata (<i>Acrocinus longimanus</i>).">
 	    <figcaption>
 	        <p><b>Figura 18:</b> Arlequim-da-mata (<i>Acrocinus longimanus</i>).. <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Daniel Moreno.</p>
 	    </figcaption>
 	</figure>
     <figure class="base">
-        <img src="/images/Serra-pau.png" alt="<i>Mallodon spinibarbis</i>. Detalhe para as peças bucais robustas">
+        <img src="../images/Serra-pau.png" alt="<i>Mallodon spinibarbis</i>. Detalhe para as peças bucais robustas">
         <figcaption>
             <p><b>Figura 19:</b> <i>Mallodon spinibarbis</i>. Detalhe para as peças bucais robustas. <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Jean-Paul Boerekamps.</p>
         </figcaption>
@@ -217,13 +217,13 @@ Conhecidos popularmente como burrinho, caga-fogo e potó grande, são reconhecid
 
 <div style="display:flex; width: auto">
     <figure class="base">
-        <img src="/images/Arrebenta-boi.png" alt="Arrebenta-boi (<i>Cissites maculata</i>)">
+        <img src="../images/Arrebenta-boi.png" alt="Arrebenta-boi (<i>Cissites maculata</i>)">
         <figcaption>
             <p><b>Figura 20:</b> Arrebenta-boi (<i>Cissites maculata</i>). <b>Fonte:</b> Imagem autoral.</p>
         </figcaption>
     </figure>
     <figure class="base">
-        <img src="/images/Caga-fogo.png" alt="Caga-fogo (<i>Epicauta suturalis</i>)">
+        <img src="../images/Caga-fogo.png" alt="Caga-fogo (<i>Epicauta suturalis</i>)">
         <figcaption>
             <p><b>Figura 21:</b> Caga-fogo (<i>Epicauta suturalis</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Alex Fernando.</p>
         </figcaption>
@@ -236,13 +236,13 @@ Conhecidos popularmente como potó e caga-fogo, é a segunda maior família de C
 
 <div style="display:grid; grid-template-columns: 50% 50%">
     <figure class="base">
-        <img src="/images/Poto.png" alt="Potó (gênero <i>Paederus</i>)">
+        <img src="../images/Poto.png" alt="Potó (gênero <i>Paederus</i>)">
         <figcaption>
             <p><b>Figura 22:</b> Potó (gênero <i>Paederus</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> ruebezahl.</p>
         </figcaption>
     </figure>
     <figure class="base">
-        <img src="/images/Acidente-com-poto.png" alt="Acidente causado por potó">
+        <img src="../images/Acidente-com-poto.png" alt="Acidente causado por potó">
         <figcaption>
             <p><b>Figura 23:</b> Acidente causado por potó. <b>Fonte:</b> <a href="https://dermnetnz.org/imagedetail/15295-blistering-due-to-blister-beetle"> DermNet</a>
             <b>Autor da imagem:</b> Jenna Limmer.</p>
@@ -259,7 +259,7 @@ A ordem Hemiptera é tão diversa que recebe vários nomes populares, de acordo 
 Popularmente conhecidas como baratas-d'água, são grandes, variando de 10mm a 130mm. Sua forma corporal varia de oval a alongada e achatada dorso-ventralmente. Possui coloração que varia de verde a castano. São facilmente reconhecidas pela perna anterior raptorial e as médias e posteriores em forma de remo, adaptadas para natação. Bons nadadores, predadores de tocaia, podendo predar peixes e anfíbios maiores que eles mesmos (GRAZIA *et al*., 2024). Habitam águas paradas e lentas e podem migrar para piscinas, atraídos por fontes luminosas. Eventualmente desferem picadas em pessoas que entram nesses corpos d'água (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Belostomatidae.png" alt="Barata d'água (<i>Belostoma sp</i>. Vistas dorsal e lateral. Detalhe para as pernas raptoriais e peça bucal picadora-sugadora">
+    <img src="../images/Belostomatidae.png" alt="Barata d'água (<i>Belostoma sp</i>. Vistas dorsal e lateral. Detalhe para as pernas raptoriais e peça bucal picadora-sugadora">
     <figcaption>
         <p><b>Figura 24:</b> Barata d'água (<i>Belostoma sp</i>). Vistas dorsal e lateral. Detalhe para as pernas raptoriais e peça bucal picadora-sugadora. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -270,7 +270,7 @@ Popularmente conhecidas como baratas-d'água, são grandes, variando de 10mm a 1
 Popularmente conhecidos como barbeiros, é considerada a segunda maior família de Hemiptera, com cerca de 7000 espécies (cerca de 11% dessas, descritas no Brasil). Todos são predadores de outros artrópodes, com exceção dos triatomíneos, que são hematófagos. Estes, são considerados de importância médica por serem vetores do protozoário *Tripanossoma cruzi*, causador da Doença de Chagas. Estudos mostram que a Doença de Chagas já existia como uma doença de animais silvestres há milhões de anos, mas a perda do hábitat natural dos triatomíneos, fez com que algumas espécies desses insetos passassem a viver em habitações humanas, causando acidentes (GRAZIA *et al*., 2024).
 
 <figure class="base">
-    <img src="/images/Barbeiro.png" alt="Barbeiro (<i>Triatoma infestans</i>)">
+    <img src="../images/Barbeiro.png" alt="Barbeiro (<i>Triatoma infestans</i>)">
     <figcaption>
         <p><b>Figura 25:</b> Barbeiro (<i>Triatoma infestans</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Evaristo Santos Ortega.</p>
     </figcaption>
@@ -282,13 +282,13 @@ Conhecidos popularmente como moscas, mosquitos, mutucas, pernilongos, entre outr
 
 <div style="display: grid; grid-template-columns: 50% 50%">
     <figure class="base">
-        <img src="/images/Aedes.png" alt="Mosquito-da-dengue (<i>Aedes aegypti</i>)">
+        <img src="../images/Aedes.png" alt="Mosquito-da-dengue (<i>Aedes aegypti</i>)">
         <figcaption>
             <p><b>Figura 26:</b> Mosquito-da-dengue (<i>Aedes aegypti</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> schneepschnorp.</p>
         </figcaption>
     </figure>
     <figure class="base">
-        <img src="/images/Berne.png" alt="Berne (fase larval da Mosca <i>Dermatobia hominis</i>)">
+        <img src="../images/Berne.png" alt="Berne (fase larval da Mosca <i>Dermatobia hominis</i>)">
         <figcaption>
             <p><b>Figura 27:</b> Berne (fase larval da Mosca <i>Dermatobia hominis</i>). <b>Fonte:</b> iNaturalist.<sup id="fnref:6"><a href="#fn:6">6</a></sup> <b>Autor da imagem:</b> Zac Peterson.</p>
         </figcaption>

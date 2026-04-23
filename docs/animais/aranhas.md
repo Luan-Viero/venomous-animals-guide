@@ -6,7 +6,7 @@ Existem mais de 53 mil espécies de aranhas no mundo, divididas em aproximadamen
 
 
 <figure class="base">
-    <img src="/images/Morfologia.png" alt="Morfologia externa das aranhas">
+    <img src="../images/Morfologia.png" alt="Morfologia externa das aranhas">
     <figcaption>
         <p><b>Figura 1:</b> Morfologia externa das aranhas. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -19,7 +19,7 @@ As aranhas do gênero *Phoneutria*, conhecidas como Aranhas-Armadeiras, são ara
 
 
 <figure class="base">
-    <img src="/images/Phoneutria-distribuicao.png" alt="Distribuição aproximada do gênero <i>Phoneutria</i> no Brasil">
+    <img src="../images/Phoneutria-distribuicao.png" alt="Distribuição aproximada do gênero <i>Phoneutria</i> no Brasil">
     <figcaption>
         <p><b>Figura 2:</b> Distribuição aproximada do gênero <i>Phoneutria</i> no Brasil. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -29,7 +29,7 @@ As aranhas do gênero *Phoneutria*, conhecidas como Aranhas-Armadeiras, são ara
 As armadeiras são assim chamadas pelo comportamento que apresentam ao sentirem-se ameaçadas, apoiando-se nas pernas traseiras e esticando as dianteiras.
 
 <figure class="base">
-    <img src="/images/Phoneutria.png" alt="Aranhas-armadeiras em posição defensiva">
+    <img src="../images/Phoneutria.png" alt="Aranhas-armadeiras em posição defensiva">
     <figcaption>
         <p><b>Figura 3:</b> Aranhas-armadeiras em posição defensiva. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -38,14 +38,14 @@ As armadeiras são assim chamadas pelo comportamento que apresentam ao sentirem-
 Não constroem teias e, durante o dia, escondem-se debaixo de troncos, madeira empilhada, pedras, tijolos, telhas ou na vegetação (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Phoneutria2.png" alt="Aranhas-armadeiras em ambiente natural e antropizado">
+    <img src="../images/Phoneutria2.png" alt="Aranhas-armadeiras em ambiente natural e antropizado">
     <figcaption>
         <p><b>Figura 4:</b> Aranhas-armadeiras em ambiente natural e antropizado. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
 </figure>
 
 <figure class="base">
-    <img src="/images/Phoneutria3.png" alt="Características principais das aranhas-armadeiras">
+    <img src="../images/Phoneutria3.png" alt="Características principais das aranhas-armadeiras">
     <figcaption>
         <p><b>Figura 5:</b> Características principais das aranhas-armadeiras. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -55,7 +55,7 @@ Não constroem teias e, durante o dia, escondem-se debaixo de troncos, madeira e
 Aranhas-armadeiras são a segunda maior causa de acidentes aracnídicos no Brasil, com a maioria dos casos ocorrendo nas regiões sudeste e sul do Brasil (BUCARETCHI *et al.*, 2000).
 
 <figure class="base">
-    <img src="/images/Notificacoes-foneutria.png" alt="Notificações por acidentes causados por <i>Phoneutria</i>">
+    <img src="../images/Notificacoes-foneutria.png" alt="Notificações por acidentes causados por <i>Phoneutria</i>">
     <figcaption>
         <p><b>Figura 6:</b> Notificações de acidentes causados por <i>Phoneutria</i>. <b>Fonte:</b> SINAN, 2019.<sup id="fnref:6"><a href="#fn:6">6</a></sup></p>
     </figcaption>
@@ -65,7 +65,7 @@ O veneno da *Phoneutria* é neurotóxico e pode causar dor intensa e irradiante,
 
 
 <figure class="base">
-    <img src="/images/Acidente-foneutrico.png" alt="Acidente causado por *Phoneutria</i>">
+    <img src="../images/Acidente-foneutrico.png" alt="Acidente causado por *Phoneutria</i>">
     <figcaption>
         <p><b>Figura 7:</b> Acidente causado por <i>Phoneutria</i>. <b>Fonte:</b> São Paulo, 2013.<sup id="fnref:10"><a href="#fn:10">10</a></sup></p>
     </figcaption>
@@ -76,7 +76,7 @@ O veneno da *Phoneutria* é neurotóxico e pode causar dor intensa e irradiante,
 Aranhas do gênero *Loxosceles* são popularmente conhecidas como Aranhas-marrons. Possuem 148 espécies (WSC, 2026) no mundo e 19 delas, amplamente distribuídas no território nacional (BRASIL, 2024). São aranhas pequenas, chegando a 4cm de envergadura, de comportamento não agressivo, preferindo se manter imóveis e fingindo-se de mortas (PLATNICK, 2020).
 
 <figure class="base">
-    <img src="/images/Loxosceles-distribuicao.png" alt="Distribuição aproximada do gênero <i>Loxosceles</i>">
+    <img src="../images/Loxosceles-distribuicao.png" alt="Distribuição aproximada do gênero <i>Loxosceles</i>">
     <figcaption>
         <p><b>Figura 8:</b> Distribuição aproximada do gênero <i>Loxosceles</i> no Brasil. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -85,14 +85,14 @@ Aranhas do gênero *Loxosceles* são popularmente conhecidas como Aranhas-marron
 Constroem teias irregulares, geralmente em espaços protegidos, como fendas entre raízes, entre folhas de palmeiras, debaixo de pedras e galhos, debaixo de tijolos, telhas, madeira empilhada, atrás de quadros, dentro de forros, dentro ou atrás de móveis etc (BRASIL, 2024). 
 
 <figure class="base">
-    <img src="/images/Loxosceles.png" alt="Exemplos de aranhas-marrons">
+    <img src="../images/Loxosceles.png" alt="Exemplos de aranhas-marrons">
     <figcaption>
         <p><b>Figura 9:</b> Exemplos de espécies de aranhas-marrons. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
 </figure>
 
 <figure class="base">
-    <img src="/images/Loxosceles2.png" alt="Aranhas-marrons em ambientes naturais e antropizados">
+    <img src="../images/Loxosceles2.png" alt="Aranhas-marrons em ambientes naturais e antropizados">
     <figcaption>
         <p><b>Figura 10:</b> Aranhas-marrons em ambientes naturais e antropizados. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -101,7 +101,7 @@ Constroem teias irregulares, geralmente em espaços protegidos, como fendas entr
 Aranhas-marrons são a principal causa de acidentes aracnídicos no Brasil (BRASIL, 2024). Devido aos seus hábitos, comportamentos e tamanho, a principal causa de acidentes com aranhas-marrons se dá ao comprimi-las contra o corpo, principalmente ao calçar calçados, vestir roupas ou rolar na cama.
 
 <figure class="base">
-    <img src="/images/Notificacoes-loxosceles.png" alt="Notificações por acidentes causados por aranhas do gênero <i>Loxosceles</i>">
+    <img src="../images/Notificacoes-loxosceles.png" alt="Notificações por acidentes causados por aranhas do gênero <i>Loxosceles</i>">
     <figcaption>
         <p><b>Figura 11:</b> Notificações de acidentes causados por <i>Loxosceles</i>. <b>Fonte:</b> SINAN, 2019.</p>
     </figcaption>
@@ -110,7 +110,7 @@ Aranhas-marrons são a principal causa de acidentes aracnídicos no Brasil (BRAS
 O veneno da *Loxosceles* é rico em proteases, fosfatases alcalinas, hialuronidases, fosfolipases, entre outros componentes. O principal sintoma do loxoscelismo é a ocorrência de dermonecrose no local da picada (RIBEIRO *et al.*, 2015)[^11], podendo ocorrer febre, mal-estar, anemia hemolítica, trombocitopenia (diminuição no número de plaquetas) e coagulação intravascular disseminada, sendo a lesão renal aguda a principal causa de morte (SILVA-MAGALHÃES *et al.*, 2024)[^12]
 
 <figure class="base">
-    <img src="/images/Acidente-loxoscelico.png" alt="Acidentes causados por <i>Loxosceles</i>">
+    <img src="../images/Acidente-loxoscelico.png" alt="Acidentes causados por <i>Loxosceles</i>">
     <figcaption>
         <p><b>Figura 12:</b> Acidentes causados por <i>Loxosceles</i>. <b>Fonte:</b> São Paulo, 2013<sup id="fnref:10"><a href="#fn:10">10</a></sup>.</p>
     </figcaption>
@@ -121,7 +121,7 @@ O veneno da *Loxosceles* é rico em proteases, fosfatases alcalinas, hialuronida
 As aranhas do gênero *Latrodectus*, popularmente chamadas de Viúvas-negras, são facilmente reconhecidas pelo abdômen globoso, pernas longas e finas, marcas dorsais vermelhas ou laranjas que servem como sinalização aposemática (ZEMBRUSKI *et al.*, 2025)[^13] e em alguns casos, um padrão em forma de ampulheta na região ventral (PLATNICK, 2020). Estão presentes em boa parte do Brasil, mas são mais comuns em áreas próximas ao litoral (BRASIL, 2024). São aranhas pequenas, chegando a 3cm de envergadura, de comportamento não agressivo.
 
 <figure class="base">
-    <img src="/images/Latrodectus-distribuicao.png" alt="Distribuição aproximada de <i>Latrodectus</i> no Brasil">
+    <img src="../images/Latrodectus-distribuicao.png" alt="Distribuição aproximada de <i>Latrodectus</i> no Brasil">
     <figcaption>
         <p><b>Figura 13:</b> Distribuição aproximada do gênero <i>Latrodectus</i> no Brasil. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -130,7 +130,7 @@ As aranhas do gênero *Latrodectus*, popularmente chamadas de Viúvas-negras, s�
 Assim como as *Loxosceles*, constroem teias irregulares, geralmente próximas ao solo, em vegetação baixa, debaixo de pedras, cascas de coco, pneus velhos, pilhas de telhas, paredes de casas (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Latrodectus.png" alt="<i>Latrodectus curacaviensis</i> fêmea. Vista dorsal e ventral.">
+    <img src="../images/Latrodectus.png" alt="<i>Latrodectus curacaviensis</i> fêmea. Vista dorsal e ventral.">
     <figcaption>
         <p><b>Figura 14:</b> <i>Latrodectus curacaviensis</i> fêmea. Vista dorsal e ventral. <b>Fonte:</b> Brasil, 2024.</p>
     </figcaption>
@@ -139,7 +139,7 @@ Assim como as *Loxosceles*, constroem teias irregulares, geralmente próximas ao
 Apesar de toda a mística e senso comum em torno de si, acidentes causados por Latrodectus não são comuns, principalmente levando-se em conta seu tamanho e hábitos (BRASIL, 2024).
 
 <figure class="base">
-    <img src="/images/Notificacoes-latrodectus.png" alt="Notificações de acidentes causados por <i>Latrodectus</i>">
+    <img src="../images/Notificacoes-latrodectus.png" alt="Notificações de acidentes causados por <i>Latrodectus</i>">
     <figcaption>
         <p><b>Figura 15:</b> Notificações de acidentes causados por <i>Latrodectus</i>. <b>Fonte:</b> SINAN, 2019.</p>
     </figcaption>
@@ -156,7 +156,7 @@ No Brasil, temos outras aranhas que também causam acidentes, mas que não tem v
 Aranhas do gênero *Lycosa* (e outros gêneros da família *Lycosidae*) são popularmente conhecidas como Aranhas-lobo, Tarântulas-de-grama ou Tarântulas-de-jardim. São aranhas errantes, que caçam ativamente suas presas, não constroem teias e são facilmente encontradas em jardins, gramados e até mesmo dentro das casas. São aranhas de porte médio, podendo chegar a 7cm de envergadura e é uma das aranhas mais abundantes na nossa região (BRASIL, 2001 [^15]; MARTINS, 2025[^16]).
 
 <figure class="base">
-    <img src="/images/Lycosa.png" alt="Exemplos de <i>Lycosa</i>">
+    <img src="../images/Lycosa.png" alt="Exemplos de <i>Lycosa</i>">
     <figcaption>
         <p><b>Figura 16:</b> Exemplos de <i>Lycosa</i>. <b>Fonte:</b> Imagem autoral.</p>
     </figcaption>
@@ -169,21 +169,21 @@ Apesar de comuns, os acidentes com *Lycosa* não são considerados de importânc
 As caranguejeiras não são uma espécie única, mas um complexo rico com mais de 1000 espécies que formam a família Theraphosidae (FILHO *et al.*, 2021[^18]). Existem cerca de 400 espécies de caranguejeiras no Brasil. São aranhas de médio a grande porte, com algumas chegando a quase 30cm de envergadura. Têm o corpo geralmente coberto de pelos (BRASIL, 2024). Fora do Brasil são muito utilizadas como pets (FUCHS *el al*, 2014[^19]; KONG & HART, 2023[^22]).
 
 <figure class="base">
-    <img src="/images/Theraphosidae.jpg" style="max-height: 500px" alt="Exemplo de Caranguejeira">
+    <img src="../images/Theraphosidae.jpg" style="max-height: 500px" alt="Exemplo de Caranguejeira">
     <figcaption>
         <p><b>Figura 17:</b> Exemplo de Caranguejeira. <b>Fonte:</b> Imagem autoral.</p>
     </figcaption>
 </figure>
 
 <figure class="base">
-    <img src="/images/Theraphosa.png" style="max-height: 500px" alt="<i>Theraphosa blondi</i>">
+    <img src="../images/Theraphosa.png" style="max-height: 500px" alt="<i>Theraphosa blondi</i>">
     <figcaption>
         <p><b>Figura 18:</b> <i>Theraphosa blondi</i>. <b>Fonte:</b> iNaturalist.<sup id="fnref:24"><a href="#fn:24">24</a></sup> <b>Autor da imagem:</b> Martin Ingemansson.</p>
     </figcaption>
 </figure>
 
 <figure class="base">
-    <img src="/images/Poecilotheria.png" alt="<i>Poecilotheria metallica</i>">
+    <img src="../images/Poecilotheria.png" alt="<i>Poecilotheria metallica</i>">
     <figcaption>
         <p><b>Figura 19:</b> <i>Poecilotheria metallica</i>. <b>Fonte:</b> iNaturalist.<sup id="fnref:24"><a href="#fn:24">24</a></sup> <b>Autor da imagem:</b> John (snakecollector).</p>
     </figcaption>
@@ -192,7 +192,7 @@ As caranguejeiras não são uma espécie única, mas um complexo rico com mais d
 Apesar do seu tamanho e aparência, acidentes com caranguejeiras são raros (LUCAS *et al.*, 1994; ISBISTER *et al.*, 2003[^21]). Em geral, o veneno das caranguejeiras tem ação neurotóxico, causando paralisia em suas presas (KONG & HART, 2023). Embora existam algumas caranguejeiras capazes de provocar envenenamentos sérios em humanos (LUCAS *et al.*, 1994[^20]; FUCHS *et al.*, 2014), nenhuma delas é natural do Brasil. Caranguejeiras brasileiras provocam apenas efeitos mínimos (ISBISTER *et al.*, 2003), como dor local, edema e eritema (LUCAS *et al.*, 1994). Porém, algumas caranguejeiras possuem outro mecanismo de defesa, pelos ou cerdas urticantes que elas ejetam do corpo usando as pernas (BERTANI & GUADANUCCI, 2013[^23]). Essas cerdas, em contato com a pele e mucosas, pode gerar reações inflamatórias, sendo considerados alérgenos de certa gravidade, além de lesões oculares, se em contato com os olhos (FILHO *et al.*, 2021).
 
 <figure class="base">
-    <img src="/images/Cerdas-urticantes.jpg" alt="Desenho de cerdas urticantes">
+    <img src="../images/Cerdas-urticantes.jpg" alt="Desenho de cerdas urticantes">
     <figcaption>
         <p><b>Figura 20:</b> Desenho de cerdas urticantes. <b>Fonte:</b> Bertani & Guadanucci, 2013.</p>
     </figcaption>
