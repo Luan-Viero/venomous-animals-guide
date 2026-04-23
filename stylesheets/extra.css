@@ -79,6 +79,7 @@
 .md-typeset a {
   color: var(--cor-md-default-fg-color);
   font-weight: 500;
+  text-decoration: underline;
 }
 
 .md-typeset a:hover {
@@ -88,6 +89,7 @@
 [data-md-color-scheme="slate"] .md-typeset a {
   color: var(--md-default-fg-color);
   text-decoration-color: rgba(255, 255, 255, 0.3);
+  text-decoration: underline;
 }
 
 [data-md-color-scheme="slate"] .md-typeset a:hover {
