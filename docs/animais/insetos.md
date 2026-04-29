@@ -304,6 +304,7 @@ Conhecer o agente, a causa e as circunstâncias de acidentes que já aconteceram
 ## Prevenção de acidentes  
 
 Com base nessas informações, as principais ações para prevenir acidentes são:  
+
 - **Atenção:** Olhar com atenção onde pisa e/ou coloca a mão, principalmente em troncos de árvores (no caso de colmeias de abelhas e vespas ou de colônias de lagartas) ou gramados (no caso de ninhos de formigas);  
 - **Uso de EPI:** Usar sapatos fechados, luvas de aparas de couro e macacão para apicultura;  
 - **Manutenção:** Não mexer em colmeias e vespeiros. Em caso de risco de acidente, contatar a autoridade local ou profissional qualificado competente para remoção;  

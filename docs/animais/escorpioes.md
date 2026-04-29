@@ -97,6 +97,7 @@ Conhecer o agente, a causa e as circunstâncias de acidentes que já aconteceram
 ## Prevenção de acidentes  
 
 Com base nessas informações, as principais ações para prevenir acidentes são:  
+
 - **Atenção:** Olhar com atenção onde pisa e/ou coloca a mão, principalmente em locais quentes, escuros e úmidos e com acúmulo de entulho/restos de construção. Sacudir roupas e sapatos antes de usá-los;  
 - **Uso de EPI:** Usar sapatos fechados e luvas de aparas de couro;  
 - **Controle de pragas:** Controlar a proliferação de insetos que podem servir de alimento para as aranhas, principalmente baratas;  

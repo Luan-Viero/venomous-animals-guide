@@ -223,7 +223,8 @@ Até hoje, algumas crenças que supostamente tratam ou curam acidentes com anima
 
 ## Prevenção de acidentes  
 
-Com base nessas informações, as principais ações para prevenir acidentes são:  
+Com base nessas informações, as principais ações para prevenir acidentes são: 
+ 
 - **Atenção:** Olhar com atenção onde pisa e/ou coloca a mão, principalmente em locais quentes, escuros e úmidos;  
 - **Uso de EPI:** Usar botas de cano alto ou perneiras de couro e sapatos fechados e luvas de aparas de couro;  
 - **Controle de pragas:** Controlar a população de roedores e pequenos animais que podem servir de alimento para as serpentes;  
